@@ -5,6 +5,8 @@ overrides = {
     "bank of america": "Bank of America",
     "wells fargo": "Wells Fargo Bank",
     "citibank": "Citibank",
+    "huntington": "The Huntington National Bank",
+    "the huntington national bank": "The Huntington National Bank",
     "u.s. bank": "US Bank NA",
     "us bank": "US Bank NA",
     "pnc bank": "PNC Bank",
